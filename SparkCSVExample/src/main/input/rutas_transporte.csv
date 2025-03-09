@@ -1,0 +1,301 @@
+id_ruta,transporte,origen,destino,duracion_minutos,capacidad
+1,Taxi,Universidad,Aeropuerto,30,200
+2,Tranvía,Centro,Plaza Central,55,50
+3,Taxi,Estación Norte,Puerto,26,200
+4,Metro,Hospital,Aeropuerto,71,4
+5,Taxi,Centro,Estación Norte,47,4
+6,Autobús,Estación Norte,Plaza Central,20,4
+7,Tranvía,Puerto,Aeropuerto,29,200
+8,Taxi,Hospital,Universidad,75,4
+9,Tranvía,Aeropuerto,Estación Norte,48,200
+10,Tren,Plaza Central,Universidad,81,4
+11,Taxi,Puerto,Universidad,80,100
+12,Tranvía,Plaza Central,Hospital,45,50
+13,Tren,Aeropuerto,Estación Norte,33,4
+14,Metro,Aeropuerto,Hospital,61,100
+15,Taxi,Aeropuerto,Hospital,55,200
+16,Tren,Centro,Puerto,86,4
+17,Autobús,Plaza Central,Aeropuerto,15,200
+18,Tren,Plaza Central,Universidad,83,200
+19,Tranvía,Hospital,Puerto,60,200
+20,Taxi,Hospital,Centro,36,100
+21,Taxi,Plaza Central,Universidad,61,4
+22,Metro,Hospital,Universidad,47,50
+23,Metro,Universidad,Centro,11,4
+24,Tren,Universidad,Centro,46,4
+25,Metro,Puerto,Aeropuerto,46,4
+26,Tranvía,Aeropuerto,Universidad,76,200
+27,Metro,Aeropuerto,Universidad,79,100
+28,Metro,Estación Norte,Aeropuerto,54,50
+29,Taxi,Centro,Aeropuerto,78,200
+30,Autobús,Puerto,Universidad,59,200
+31,Taxi,Puerto,Hospital,64,50
+32,Autobús,Aeropuerto,Plaza Central,88,100
+33,Taxi,Estación Norte,Aeropuerto,29,50
+34,Taxi,Plaza Central,Centro,24,200
+35,Tren,Universidad,Puerto,23,200
+36,Taxi,Centro,Aeropuerto,17,200
+37,Tren,Estación Norte,Universidad,12,4
+38,Metro,Puerto,Centro,16,200
+39,Tranvía,Estación Norte,Hospital,52,100
+40,Tranvía,Estación Norte,Aeropuerto,86,50
+41,Tren,Aeropuerto,Universidad,24,100
+42,Tranvía,Aeropuerto,Plaza Central,62,4
+43,Metro,Hospital,Centro,31,50
+44,Metro,Centro,Hospital,35,100
+45,Autobús,Hospital,Estación Norte,54,100
+46,Tren,Puerto,Hospital,48,200
+47,Taxi,Puerto,Plaza Central,87,4
+48,Autobús,Aeropuerto,Plaza Central,76,50
+49,Tren,Plaza Central,Estación Norte,83,100
+50,Taxi,Estación Norte,Aeropuerto,55,50
+51,Tranvía,Centro,Aeropuerto,62,100
+52,Autobús,Universidad,Aeropuerto,53,100
+53,Tranvía,Puerto,Hospital,83,100
+54,Metro,Hospital,Puerto,46,4
+55,Tren,Plaza Central,Puerto,56,200
+56,Metro,Universidad,Plaza Central,77,200
+57,Metro,Centro,Plaza Central,44,50
+58,Autobús,Puerto,Hospital,29,4
+59,Tranvía,Plaza Central,Aeropuerto,54,200
+60,Tren,Aeropuerto,Puerto,18,50
+61,Autobús,Plaza Central,Universidad,32,50
+62,Taxi,Puerto,Hospital,27,4
+63,Tranvía,Estación Norte,Aeropuerto,57,50
+64,Metro,Puerto,Universidad,37,100
+65,Tren,Hospital,Estación Norte,11,200
+66,Autobús,Plaza Central,Estación Norte,53,100
+67,Taxi,Puerto,Hospital,35,100
+68,Tren,Plaza Central,Aeropuerto,48,50
+69,Metro,Universidad,Hospital,43,200
+70,Tranvía,Universidad,Centro,68,200
+71,Taxi,Estación Norte,Puerto,20,100
+72,Metro,Aeropuerto,Universidad,64,200
+73,Tranvía,Estación Norte,Hospital,89,100
+74,Tranvía,Puerto,Estación Norte,14,50
+75,Tren,Puerto,Estación Norte,22,4
+76,Taxi,Puerto,Aeropuerto,12,4
+77,Metro,Hospital,Puerto,55,100
+78,Autobús,Centro,Puerto,14,200
+79,Taxi,Hospital,Centro,20,100
+80,Taxi,Universidad,Centro,11,100
+81,Autobús,Aeropuerto,Hospital,83,200
+82,Metro,Aeropuerto,Plaza Central,63,50
+83,Metro,Puerto,Hospital,79,50
+84,Tranvía,Puerto,Aeropuerto,23,100
+85,Taxi,Estación Norte,Hospital,10,100
+86,Taxi,Hospital,Universidad,20,50
+87,Taxi,Hospital,Aeropuerto,31,50
+88,Tranvía,Puerto,Aeropuerto,53,50
+89,Autobús,Plaza Central,Aeropuerto,54,4
+90,Metro,Puerto,Centro,50,4
+91,Tren,Universidad,Aeropuerto,67,4
+92,Metro,Plaza Central,Hospital,64,50
+93,Taxi,Universidad,Estación Norte,86,100
+94,Autobús,Aeropuerto,Plaza Central,27,200
+95,Autobús,Universidad,Plaza Central,78,4
+96,Tranvía,Hospital,Estación Norte,52,100
+97,Autobús,Puerto,Estación Norte,67,100
+98,Tranvía,Hospital,Universidad,60,50
+99,Taxi,Universidad,Aeropuerto,15,200
+100,Taxi,Puerto,Hospital,32,4
+101,Tren,Puerto,Plaza Central,64,100
+102,Metro,Puerto,Centro,67,50
+103,Taxi,Plaza Central,Aeropuerto,52,200
+104,Autobús,Universidad,Hospital,58,4
+105,Tranvía,Plaza Central,Universidad,37,50
+106,Autobús,Puerto,Estación Norte,64,100
+107,Tren,Plaza Central,Hospital,57,200
+108,Tranvía,Estación Norte,Centro,13,50
+109,Taxi,Aeropuerto,Centro,78,100
+110,Taxi,Universidad,Aeropuerto,16,4
+111,Tranvía,Plaza Central,Hospital,77,200
+112,Tranvía,Centro,Universidad,82,50
+113,Autobús,Centro,Universidad,55,4
+114,Taxi,Universidad,Hospital,34,50
+115,Autobús,Plaza Central,Aeropuerto,47,50
+116,Tren,Universidad,Centro,79,50
+117,Metro,Aeropuerto,Hospital,30,100
+118,Tren,Hospital,Puerto,71,50
+119,Taxi,Hospital,Puerto,37,100
+120,Autobús,Estación Norte,Puerto,16,50
+121,Tren,Aeropuerto,Universidad,73,4
+122,Autobús,Hospital,Plaza Central,20,4
+123,Taxi,Hospital,Centro,33,50
+124,Autobús,Universidad,Puerto,46,4
+125,Tranvía,Universidad,Plaza Central,58,200
+126,Tren,Centro,Aeropuerto,32,50
+127,Tranvía,Centro,Universidad,18,200
+128,Autobús,Aeropuerto,Hospital,19,200
+129,Metro,Universidad,Centro,72,200
+130,Taxi,Centro,Aeropuerto,63,50
+131,Tren,Plaza Central,Universidad,41,50
+132,Tren,Centro,Aeropuerto,38,50
+133,Metro,Hospital,Estación Norte,16,4
+134,Autobús,Centro,Plaza Central,69,100
+135,Tranvía,Centro,Plaza Central,74,4
+136,Metro,Puerto,Plaza Central,54,200
+137,Metro,Centro,Estación Norte,87,4
+138,Metro,Puerto,Hospital,21,200
+139,Metro,Universidad,Hospital,57,50
+140,Autobús,Plaza Central,Estación Norte,42,200
+141,Taxi,Plaza Central,Estación Norte,65,4
+142,Tren,Centro,Universidad,89,100
+143,Taxi,Puerto,Aeropuerto,34,50
+144,Tranvía,Hospital,Aeropuerto,40,4
+145,Tren,Plaza Central,Centro,45,100
+146,Metro,Estación Norte,Centro,18,4
+147,Taxi,Centro,Hospital,80,4
+148,Metro,Centro,Puerto,28,100
+149,Taxi,Centro,Estación Norte,83,4
+150,Autobús,Centro,Plaza Central,62,200
+151,Taxi,Hospital,Plaza Central,47,50
+152,Tranvía,Estación Norte,Centro,42,100
+153,Tranvía,Hospital,Plaza Central,31,50
+154,Tranvía,Hospital,Estación Norte,84,200
+155,Tren,Estación Norte,Centro,21,200
+156,Metro,Hospital,Centro,57,50
+157,Tren,Plaza Central,Aeropuerto,71,50
+158,Autobús,Estación Norte,Puerto,42,4
+159,Tren,Aeropuerto,Centro,59,4
+160,Tren,Plaza Central,Estación Norte,38,200
+161,Tren,Plaza Central,Universidad,65,4
+162,Tren,Estación Norte,Aeropuerto,20,100
+163,Autobús,Hospital,Puerto,86,200
+164,Tren,Plaza Central,Puerto,69,50
+165,Autobús,Hospital,Estación Norte,36,100
+166,Autobús,Puerto,Universidad,48,200
+167,Tren,Aeropuerto,Puerto,58,200
+168,Taxi,Puerto,Estación Norte,61,4
+169,Tren,Estación Norte,Plaza Central,13,50
+170,Tren,Plaza Central,Hospital,47,50
+171,Metro,Puerto,Centro,49,4
+172,Metro,Plaza Central,Estación Norte,88,4
+173,Tren,Universidad,Aeropuerto,47,100
+174,Tren,Centro,Hospital,65,200
+175,Tranvía,Plaza Central,Puerto,73,200
+176,Autobús,Plaza Central,Aeropuerto,32,200
+177,Tren,Centro,Universidad,60,4
+178,Tranvía,Centro,Universidad,56,4
+179,Taxi,Estación Norte,Universidad,50,4
+180,Tren,Centro,Puerto,52,50
+181,Taxi,Plaza Central,Universidad,20,4
+182,Tranvía,Puerto,Estación Norte,75,100
+183,Autobús,Aeropuerto,Estación Norte,44,100
+184,Metro,Estación Norte,Centro,79,100
+185,Taxi,Aeropuerto,Puerto,17,200
+186,Tren,Plaza Central,Hospital,55,4
+187,Tren,Centro,Universidad,13,4
+188,Metro,Puerto,Aeropuerto,86,200
+189,Metro,Estación Norte,Plaza Central,11,4
+190,Metro,Aeropuerto,Universidad,36,200
+191,Metro,Plaza Central,Universidad,86,50
+192,Metro,Hospital,Universidad,74,100
+193,Taxi,Estación Norte,Aeropuerto,81,50
+194,Tranvía,Universidad,Hospital,80,50
+195,Tren,Estación Norte,Universidad,88,100
+196,Tren,Plaza Central,Puerto,50,50
+197,Autobús,Centro,Puerto,52,50
+198,Tren,Plaza Central,Aeropuerto,17,200
+199,Tren,Plaza Central,Estación Norte,48,200
+200,Metro,Plaza Central,Universidad,49,4
+201,Taxi,Centro,Aeropuerto,19,50
+202,Taxi,Puerto,Estación Norte,31,200
+203,Tranvía,Hospital,Puerto,14,4
+204,Tren,Estación Norte,Hospital,35,50
+205,Metro,Universidad,Aeropuerto,49,4
+206,Autobús,Estación Norte,Centro,59,200
+207,Autobús,Centro,Aeropuerto,65,4
+208,Autobús,Hospital,Aeropuerto,64,200
+209,Taxi,Universidad,Aeropuerto,52,4
+210,Tranvía,Hospital,Universidad,64,50
+211,Taxi,Puerto,Estación Norte,12,100
+212,Tren,Puerto,Universidad,19,4
+213,Tren,Aeropuerto,Estación Norte,52,200
+214,Metro,Estación Norte,Plaza Central,52,100
+215,Autobús,Estación Norte,Aeropuerto,25,100
+216,Taxi,Universidad,Hospital,23,200
+217,Taxi,Estación Norte,Aeropuerto,38,200
+218,Tren,Universidad,Estación Norte,47,50
+219,Tren,Hospital,Estación Norte,27,50
+220,Tren,Puerto,Estación Norte,51,200
+221,Autobús,Plaza Central,Aeropuerto,59,4
+222,Tren,Estación Norte,Puerto,44,4
+223,Metro,Plaza Central,Puerto,12,50
+224,Tren,Hospital,Aeropuerto,80,200
+225,Tren,Plaza Central,Aeropuerto,24,4
+226,Tranvía,Universidad,Centro,83,200
+227,Metro,Centro,Estación Norte,32,4
+228,Autobús,Aeropuerto,Hospital,49,200
+229,Taxi,Plaza Central,Universidad,44,200
+230,Metro,Estación Norte,Puerto,62,4
+231,Autobús,Aeropuerto,Puerto,46,4
+232,Taxi,Plaza Central,Estación Norte,53,100
+233,Taxi,Aeropuerto,Hospital,58,100
+234,Tren,Hospital,Puerto,36,200
+235,Tranvía,Hospital,Aeropuerto,77,50
+236,Tren,Centro,Hospital,80,100
+237,Tren,Aeropuerto,Puerto,11,100
+238,Taxi,Aeropuerto,Universidad,83,200
+239,Tranvía,Hospital,Puerto,60,4
+240,Metro,Puerto,Estación Norte,57,4
+241,Tren,Universidad,Centro,60,50
+242,Metro,Centro,Plaza Central,77,4
+243,Taxi,Plaza Central,Hospital,30,50
+244,Tranvía,Aeropuerto,Plaza Central,35,50
+245,Autobús,Aeropuerto,Hospital,77,100
+246,Metro,Plaza Central,Aeropuerto,58,200
+247,Metro,Puerto,Aeropuerto,70,200
+248,Tren,Aeropuerto,Plaza Central,37,4
+249,Taxi,Aeropuerto,Centro,75,4
+250,Tren,Hospital,Aeropuerto,63,200
+251,Taxi,Plaza Central,Centro,64,200
+252,Tren,Aeropuerto,Centro,12,4
+253,Tranvía,Hospital,Plaza Central,16,50
+254,Tranvía,Universidad,Plaza Central,21,4
+255,Tren,Hospital,Centro,17,50
+256,Taxi,Puerto,Universidad,74,100
+257,Tranvía,Universidad,Estación Norte,22,50
+258,Taxi,Aeropuerto,Estación Norte,26,200
+259,Taxi,Centro,Plaza Central,18,100
+260,Autobús,Plaza Central,Universidad,40,200
+261,Autobús,Centro,Puerto,55,100
+262,Metro,Estación Norte,Puerto,10,50
+263,Metro,Puerto,Plaza Central,11,100
+264,Tren,Centro,Hospital,61,100
+265,Autobús,Centro,Puerto,43,4
+266,Taxi,Universidad,Hospital,16,50
+267,Taxi,Puerto,Universidad,16,100
+268,Tranvía,Centro,Aeropuerto,22,4
+269,Taxi,Puerto,Centro,64,50
+270,Metro,Puerto,Hospital,81,4
+271,Autobús,Aeropuerto,Universidad,33,100
+272,Taxi,Puerto,Estación Norte,54,100
+273,Taxi,Hospital,Universidad,47,4
+274,Taxi,Centro,Estación Norte,62,100
+275,Metro,Puerto,Centro,16,200
+276,Metro,Aeropuerto,Centro,65,200
+277,Metro,Centro,Estación Norte,80,50
+278,Tranvía,Aeropuerto,Centro,56,4
+279,Tren,Puerto,Estación Norte,51,100
+280,Tranvía,Plaza Central,Centro,45,50
+281,Autobús,Universidad,Puerto,11,100
+282,Autobús,Puerto,Plaza Central,71,50
+283,Autobús,Centro,Aeropuerto,11,4
+284,Autobús,Hospital,Centro,41,50
+285,Metro,Puerto,Estación Norte,71,100
+286,Taxi,Aeropuerto,Hospital,79,50
+287,Tranvía,Hospital,Estación Norte,25,50
+288,Taxi,Hospital,Centro,83,100
+289,Taxi,Universidad,Plaza Central,40,50
+290,Autobús,Centro,Hospital,28,4
+291,Metro,Hospital,Puerto,15,100
+292,Tranvía,Aeropuerto,Estación Norte,68,4
+293,Autobús,Puerto,Estación Norte,18,100
+294,Tranvía,Plaza Central,Universidad,66,200
+295,Taxi,Centro,Aeropuerto,61,100
+296,Autobús,Plaza Central,Centro,74,4
+297,Taxi,Estación Norte,Aeropuerto,21,200
+298,Autobús,Estación Norte,Hospital,90,100
+299,Metro,Aeropuerto,Centro,27,50
+300,Tren,Estación Norte,Plaza Central,48,100
