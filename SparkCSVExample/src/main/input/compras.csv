@@ -1,0 +1,15 @@
+id_cliente,producto,monto
+C001,TV,300.0
+C002,Laptop,800.0
+C001,Teléfono,200.0
+C003,Monitor,150.0
+C002,Teclado,50.0
+C003,Mouse,30.0
+C001,Cámara,500.0
+C001,product01,300.0
+C002,product02,800.0
+C001,product03,200.0
+C003,product04,150.0
+C002,product05,50.0
+C003,product06,30.0
+C001,product07,500.0
